@@ -1,4 +1,5 @@
 # Music Store Data Analysis
+![Alt Text](https://github.com/Kalpesh-Rajput/Music_Store_Analysis_SQL/blob/main/Music%20Store%20Data/music.jpg)
 
 ## Project Overview
 The **Music Store Data Analysis** project utilizes SQL to explore and analyze data from a music store. The objective is to extract insights that can help the business make data-driven decisions, such as identifying the best customers, most popular genres, and optimal locations for promotions.
